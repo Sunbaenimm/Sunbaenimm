@@ -5,6 +5,7 @@
 - 📫 How to reach me by emailing 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am non-technical graduate. I decided to learn coding and languages to upskill my skills and knowledge and to change new career someday.
+- https://roadmap.sh/projects/single-page-cv
 
 <!---
 Sunbaenimm/Sunbaenimm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
